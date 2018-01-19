@@ -20,8 +20,8 @@ DefaultContentLanguage = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effective Altruism Site Title"
-  strapline = "Helping you do good better"
+  fullTitle = "Anton's Effective Altruism Site"
+  strapline = "Created by Anton"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
