@@ -1,1 +1,1 @@
-* step 1: Contact us via the contact form or in our EA Berlin facebook group.
+We want to help you use evidence and reason to make the world a better place.
