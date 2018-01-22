@@ -1,1 +1,1 @@
-* Schritt 2: Wir werden uns dann bei dir melden und ein Treffen veranschlagen, um dich kennen zu lernen und weiteres Vorgehen zu besprechen.
+Wir sind eine unterstützende Gemeinschaft, die dir helfen will, deine altruistischen Ziele zu erreichen.
