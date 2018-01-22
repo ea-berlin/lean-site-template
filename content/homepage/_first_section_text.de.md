@@ -1,1 +1,1 @@
-* Schritt 1: Kontaktiere uns via dem Kontaktformular oder in der EA Berlin Facebook Gruppe.
+We want to help you use evidence and reason to make the world a better place.
