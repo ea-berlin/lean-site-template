@@ -122,7 +122,7 @@ DefaultContentLanguage = "de"
   [Languages.de.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Wer sind wir?"
-  leadText = "Wie du bei EA Berlin mitmachen kannst:"
+  leadText = "Wir sind eine Gruppe von Menschen, die dir bei folgender Frage helfen wollen: Wie kannst du Gutes besser tun?"
   firstSectionHeader = "Gutes Besser Tun"
   secondSectionHeader = "Gemeinsam Mehr Bewirken"
   thirdSectionHeader = "Finde den Besten Weg"
