@@ -9,8 +9,6 @@ draft: false
 
 #### So what is effective altruism?  
 
-testtt remove this later
-
 The core idea:  
 
 
