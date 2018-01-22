@@ -12,7 +12,7 @@ Es folgt eine Liste verchiedener Quellen, um sich weiter über den Effektiven Al
 Wenn dir TED talks gefallen, solltest du Peter Singer's Vortrag **[The Why and How of Effective Altruism](https://www.youtube.com/watch?v=Diuv3XZQXyc)** anschauen oder **[eine der zahlreichen anderen Videos über den Effektiven Altruism](http://effective-altruism.wikia.com/wiki/List_of_EA_Presentations)**. The Life You Can Save (Singer’s erstes Buch über den Effektiven Altruismus) **[in 3 Minuten](https://www.youtube.com/watch?v=onsIdBanynY)** ist ebenfalls empfehlenswert.
 
 
-Ein guter Start ist zudem diese **[einführende Liste im EA Forum](http://www.effective-altruism.com/ea/6x/introduction_to_effective_altruism/)**. Ryan Carey hat zudem eine Ausführlichere Form in **[PDF Format](http://www.careyryan.com/files/EA_Handbook.pdf)** erstellt.
+Ein guter Start ist zudem diese **[einführende Liste im EA Forum](http://www.effective-altruism.com/ea/6x/introduction_to_effective_altruism/)**. Ryan Carey hat zudem eine ausführlichere Form in **[PDF Format](http://www.careyryan.com/files/EA_Handbook.pdf)** erstellt.
 
 
 Eine weitere Liste guter Artikel von Ben Kuhn findet man **[hier](http://www.benkuhn.net/ea-reading)**.
