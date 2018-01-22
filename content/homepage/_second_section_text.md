@@ -1,1 +1,1 @@
-* step 2: We will contact you back and propose a meeting to get to know you and discuss further actions.
+We are a welcoming group dedicated to promoting, inspiring and supporting one another to achieve altruistic goals.
