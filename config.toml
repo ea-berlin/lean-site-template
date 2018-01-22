@@ -124,8 +124,8 @@ DefaultContentLanguage = "de"
   topBannerText = "Wer sind wir?"
   leadText = "Wir sind eine Gruppe von Menschen, die dir bei folgender Frage helfen wollen: Wie kannst du Gutes besser tun?"
   firstSectionHeader = "Gutes Besser Tun"
-  secondSectionHeader = "Gemeinsam Mehr Bewirken"
-  thirdSectionHeader = "Finde den Besten Weg"
+  secondSectionHeader = "Gemeinsam Bewirken"
+  thirdSectionHeader = "Den Besten Weg Finden"
   bottomBannerText = "Ein stolzes Mitglied der weltweiten Effektiven Altruismus Bewegung"
 
   [Languages.de.contactform]
