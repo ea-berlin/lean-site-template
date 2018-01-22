@@ -1,11 +1,11 @@
-baseURL = "https://AntonRodenhauser.github.io/lean-site-template/"
+baseURL = "https://rtcharity.github.io/lean-site-template/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
 # you can change this language code. In this particular case,
 # baseURL will be th english site, and baseURL/<language code> will be the
 # other languages.
-DefaultContentLanguage = "en"
+DefaultContentLanguage = "de"
 
 # These params are used by the local EA Hugo template
 # used to generate the site. You can find the template
@@ -14,20 +14,20 @@ DefaultContentLanguage = "en"
 
   [Languages]
   [Languages.en]
-  title = "Local EA Website"
+  title = "EA Berlin"
   weight = 1
   languageCode = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Anton's Effective Altruism Site"
-  strapline = "Created by Anton"
+  fullTitle = "Effective Altruism Berlin"
+  strapline = "Helping you do good better"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effective Altruism <City Here>"
-  orgLocations = "this location and that location"
-  contactEmail = "yourEAGroupEmail@here.com"
+  legalOrgName = "Effective Altruism Berlin"
+  orgLocations = "Berlin"
+  contactEmail = "info@ea-berlin.org"
 
   [Languages.en.navbar]
   ## -- NAVIGATION BAR HEADERS -- ##
@@ -69,10 +69,10 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "First Button Text"
+  firstButtonText = "Contact Us"
   firstButtonLink = ""
-  secondButtonText = "Second Button Text"
-  secondButtonLink = ""
+  secondButtonText = "EA Berlin Facebook Group"
+  secondButtonLink = "https://www.facebook.com/groups/eaberlin1/"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
 
@@ -80,6 +80,77 @@ DefaultContentLanguage = "en"
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
   # If your group does not have URLs for these, just add # before the line
   # to remove the link from the site
-  facebookUrl = ""
-  twitterUrl = ""
-  meetupUrl = ""
+  facebookUrl = "https://www.facebook.com/groups/eaberlin1/"
+  # twitterUrl = ""
+  # meetupUrl = ""
+  
+  [Languages.de]
+  title = "Effektiver Altruismus Berlin"
+  weight = 2
+  languageCode = "de"
+
+  [Languages.de.general]
+  ## -- GENERAL SITE PARAMETERS -- ##
+  fullTitle = "Effektiver Altruismus Berlin"
+  strapline = "Gutes Besser Tun"
+
+  ## -- EA GROUP INFO -- ##
+  [Languages.de.groupinfo]
+  legalOrgName = "Effektiver Altruismus Berlin"
+  orgLocations = "Berlin"
+  contactEmail = "info@ea-berlin.org"
+
+  [Languages.de.navbar]
+  ## -- NAVIGATION BAR HEADERS -- ##
+  # You probably don't need/want to change these,
+  # but if you do you'll also want to change the relevant .md file under the
+  # content folder so the copy corresponds with the header.
+  home = "Startseite"
+  faq = "FAQ"
+  effectiveAltruism = "Effektiver Altruismus"
+  aboutEA = "Über EA"
+  readingMaterial = "Lesematerial"
+  keyTerms = "Schlüsselbegriffe"
+  organizations = "Organisationen"
+  contact= "Kontakt"
+
+  [Languages.de.pages]
+  ## -- Page Headers -- ##
+  contactPageHeader = "Kontaktiere uns"
+  aboutEAPageHeader = "Was ist effektiver Altruismus?"
+
+  [Languages.de.homepage]
+   ## -- HOMEPAGE -- ##
+  topBannerText = "Wer sind wir?"
+  leadText = "Wir sind eine Gruppe von Menschen, die dir helfen wollen, folgende frage zu beantworten: Wie können wir gutes besser tun?"
+  firstSectionHeader = "Gutes Besser Tun"
+  secondSectionHeader = "Stärke die Gemeinschaft"
+  thirdSectionHeader = "Finde den besten Weg zum Helfen"
+  bottomBannerText = "Ein stolzes Mitglied der weltweiten Effektiver Altruismus Bewegung"
+
+  [Languages.de.contactform]
+  leadText = "sag Hallo!"
+  senderName = "dein Name (notwendig)"
+  senderEmail = "deine Email (notwendig)"
+  emailSubject = "Betreff"
+  emailMessage = "deine Nachricht"
+  send = "Senden"
+
+  [Languages.de.jumbotron]
+  # These are the buttons right under the header that appears on the main page.
+  # You can use them to link to a mailing list or Facebook page.
+  # Make sure the links start with http:// or https://
+  firstButtonText = "Kontaktiere uns"
+  firstButtonLink = ""
+  secondButtonText = "Unsere EA-Berlin Facebook Gruppe"
+  secondButtonLink = "https://www.facebook.com/groups/eaberlin1/"
+  # Remove the # before the text to add the optional Meetup button
+  # meetupButtonText = "Find us on Meetup"
+
+  [Languages.de.urls]
+  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
+  # If your group does not have URLs for these, just add # before the line
+  # to remove the link from the site
+  facebookUrl = "https://www.facebook.com/groups/eaberlin1/"
+  # twitterUrl = ""
+# meetupUrl = ""
