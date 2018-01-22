@@ -52,9 +52,9 @@ DefaultContentLanguage = "de"
    ## -- HOMEPAGE -- ##
   topBannerText = "Who are we?"
   leadText = "We're a group of people who want to help you answer the question: how can I do good better?"
-  firstSectionHeader = "Doing good better"
-  secondSectionHeader = "Building a community"
-  thirdSectionHeader = "Finding better ways to help"
+  firstSectionHeader = "step 1"
+  secondSectionHeader = "step 2"
+  thirdSectionHeader = "step 3"
   bottomBannerText = "A proud member of the effective altruism network"
 
   [Languages.en.contactform]
@@ -122,10 +122,10 @@ DefaultContentLanguage = "de"
   [Languages.de.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Wer sind wir?"
-  leadText = "Wir sind eine Gruppe von Menschen, die dir helfen wollen, Gutes besser zu tun!"
-  firstSectionHeader = "Mache Gutes Besser"
-  secondSectionHeader = "Stärke die Gemeinschaft"
-  thirdSectionHeader = "Finde den besten Weg zum Helfen"
+  leadText = "Wie du bei EA Berlin mitmachen kannst:"
+  firstSectionHeader = "Schritt 1:"
+  secondSectionHeader = "Schritt 2"
+  thirdSectionHeader = "Schritt 3"
   bottomBannerText = "Ein stolzes Mitglied der weltweiten Effektiven Altruismus Bewegung"
 
   [Languages.de.contactform]
