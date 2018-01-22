@@ -1,1 +1,1 @@
-* Schritt 3: Während des ersten Treffens wirst du von unseren wöchentlichen Treffen sowie weiteren Mitmachmöglichkeiten erfahren.
+Manche Projekte sind bis zu tausendfach effektiver als andere. Wir verwenden Logik und wissenschaftliches Vorgehen, um unsere Wirkung zu maximieren.
