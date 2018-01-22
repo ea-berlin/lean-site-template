@@ -1,1 +1,1 @@
-* step 3: In that meeting you will find out about our weekly meetings and your options to get involved.
+Some projects are thousands of times more effective than others. We apply logic and research to maximise our impact.
