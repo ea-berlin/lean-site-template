@@ -122,11 +122,11 @@ DefaultContentLanguage = "de"
   [Languages.de.homepage]
    ## -- HOMEPAGE -- ##
   topBannerText = "Wer sind wir?"
-  leadText = "Wir sind eine Gruppe von Menschen, die dir helfen wollen, folgende frage zu beantworten: Wie können wir gutes besser tun?"
+  leadText = "Wir sind eine Gruppe von Menschen, die dir helfen wollen, Gutes besser zu tun!"
   firstSectionHeader = "Gutes Besser Tun"
   secondSectionHeader = "Stärke die Gemeinschaft"
   thirdSectionHeader = "Finde den besten Weg zum Helfen"
-  bottomBannerText = "Ein stolzes Mitglied der weltweiten Effektiver Altruismus Bewegung"
+  bottomBannerText = "Ein stolzes Mitglied der weltweiten Effektiven Altruismus Bewegung"
 
   [Languages.de.contactform]
   leadText = "sag Hallo!"
