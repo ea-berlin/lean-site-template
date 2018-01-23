@@ -96,7 +96,7 @@ DefaultContentLanguage = "de"
 
   ## -- EA GROUP INFO -- ##
   [Languages.de.groupinfo]
-  legalOrgName = "Effektiver Altruismus Berlin"
+  legalOrgName = "Effektiver Altruismus Berlinn"
   orgLocations = "Berlin"
   contactEmail = "info@ea-berlin.org"
 
