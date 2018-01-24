@@ -1,4 +1,4 @@
-baseURL = "https://AntonRodenhauser.github.io/lean-site-template/"
+baseURL = "https://www.ea-berlin.org/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
