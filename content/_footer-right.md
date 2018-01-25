@@ -1,7 +1,5 @@
-#### Useful links
+#### Wie kannst du bei EA Berlin mitmachen?
 
-* [effectivealtruism.org](http://effectivealtruism.org)
-* [80000 Hours](https://80000hours.org/)
-* [GiveWell](https://www.givewell.org/)
-* [The Life You Can Save](https://www.thelifeyoucansave.org/)
-* [Centre for Effective Altruism](https://www.centreforeffectivealtruism.org/)
+* Kontaktiere uns über das Kontaktformular auf dieser Seite oder stelle dich in unserer Facebook Gruppe vor.
+* Wir werden uns dann zeitnah bei dir melden und ein Treffen vorschlagen, um sich kennenzulernen und weiteres Vorgehen zu besprechen.
+* Während des ersten Treffens wirst du dann näheres über unsere wöchentlichen Treffen sowie von unseren aktuellen lokalen Projekten und Mitmachmöglichkeiten erfahren.

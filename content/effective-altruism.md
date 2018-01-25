@@ -4,7 +4,6 @@ date: 2017-12-28T15:58:29-08:00
 draft: false
 type: "effective-altruism"
 ---
+Effektiver Altruismus ist eine Philosophie und eine soziale Bewegung, die wissenschaftliche Methoden und rationalen Verstand benutzt, um die effektivsten Wege zur Verbesserung der Welt zu finden. Effektive Altruisten versuchen, sämtliche Ursachen und Folgen einer Handlung zu berücksichtigen und dann derart zu handeln, um den größtmöglichen positiven Einfluss zu bewirken. Es ist dieser breite evidenzbasierte Ansatz, der den Effektiven Altruismus von normalen Altruismus oder Karitas unterscheidet. Zwar konzentriert sich ein großer Anteil von Effektiven Altruismus auf den non-profit Sektor, aber die Philosophie von Effektiven Altruismus gilt auch viel allgemeiner, z.b. bei der Priorisierung derjenigen wissenschaftlicher Projekte, Unternehmen und politischen Initiativen, die erwahrtungsgemäß die meisten Menschenleben retten oder die Lebensqualitäten am meisten erhöhen.
 
-Effective altruism is a philosophy and social movement that applies evidence and reason to determine the most effective ways to improve the world. Effective altruists aim to consider all causes and actions, and then act in the way that brings about the greatest positive impact. It is this broad evidence-based approach that distinguishes effective altruism from traditional altruism or charity. While a substantial proportion of effective altruists have focused on the nonprofit sector, the philosophy of effective altruism applies much more broadly, e.g., to prioritizing the scientific projects, companies, and policy initiatives which can be estimated to save and improve the most lives.
-
-We are excited to be a part of this movement and hope you’ll join us.
+Wir sind begeistert, ein Teil dieser Bewegung zu sein und hoffen, dass du bei uns mitmachen wirst.
