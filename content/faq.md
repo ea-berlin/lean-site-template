@@ -1,9 +1,13 @@
 #1 Anbieter und verantwortliche Stelle im Sinne des Datenschutzgesetzes
 
 Effektiver Altruismus Berlin
+
 Dezhi Rong
+
 Torstraße 221	
+
 10115 Berlin
+
 vorstand@ea-berlin.org
 
 #1 Geltungsbereich
