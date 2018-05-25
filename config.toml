@@ -58,7 +58,7 @@ DefaultContentLanguage = "en"
   bottomBannerText = "Ein stolzes Mitglied der weltweiten Effektiven Altruismus Bewegung"
 
   [Languages.en.contactform]
-  leadText = "sag Hallo!"
+  leadText = "Hinweis zum Kontaktformular: Wir benötigen deinen Namen und Email-Adresse, um dir antworten zu können. Je genauer du deine Nachricht verfasst, desto besser können wir uns ein Bild von dir machen. Deine Daten werden nur zur Beantwortung deiner Anfrage verwendet. Weitere Informationen zum Datenschutz und Widerrufshinweise findest du unter „Datenschutzerklärung“ "
   senderName = "dein Name (notwendig)"
   senderEmail = "deine Email (notwendig)"
   emailSubject = "Betreff"
