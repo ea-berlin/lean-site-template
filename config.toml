@@ -25,7 +25,7 @@ DefaultContentLanguage = "en"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
-  legalOrgName = "Effektiver Altruismus Berlin, Angaben gemäß § 5 TMG: Jan Szyper, Meller Bogen 14, 13403 Berlin; Kontakt: Telefon 017642980509, email: jan*at*ea-berlin.org"
+  legalOrgName = "Effektiver Altruismus Berlin, Angaben gemäß § 5 TMG: Dezhi Rong, Torstraße 221, 10115 Berlin; email: vorstand"at"ea-berlin.org"
   orgLocations = "Berlin"
   contactEmail = "info@ea-berlin.org"
 
