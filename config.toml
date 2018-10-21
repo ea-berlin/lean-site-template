@@ -71,11 +71,10 @@ DefaultContentLanguage = "en"
   # Make sure the links start with http:// or https://
   firstButtonText = "Kontaktiere uns"
   firstButtonLink = "https://www.ea-berlin.org/contact"
-  secondButtonText = "Unsere EA-Berlin Facebook Gruppe"
-  secondButtonLink = "https://www.facebook.com/groups/eaberlin1/"
+  secondButtonText = "Newsletter Anmeldung"
+  secondButtonLink = "https://ea-berlin.us14.list-manage.com/subscribe?u=233b1ac60e81d252e4a837c97&id=fba1750add"
   # Remove the # before the text to add the optional Meetup button
-  meetupButtonText = "Find us on Meetup"
-  meetupButtonLink = "https://ea-berlin.us14.list-manage.com/subscribe?u=233b1ac60e81d252e4a837c97&id=fba1750add"
+  # meetupButtonText = "Find us on Meetup"
 
   [Languages.en.urls]
   ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
