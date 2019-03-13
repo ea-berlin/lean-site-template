@@ -1,12 +1,13 @@
 # baseURL = "https://www.ea-berlin.org/"
 baseURL = "https://ea-berlin.github.io/lean-site-template/"
+# baseURL = "http://localhost:8082/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
 # you can change this language code. In this particular case,
 # baseURL will be th english site, and baseURL/<language code> will be the
 # other languages.
-DefaultContentLanguage = "de"
+DefaultContentLanguage = "en"
 
 # These params are used by the local EA Hugo template
 # used to generate the site. You can find the template
@@ -38,12 +39,9 @@ DefaultContentLanguage = "de"
   # but if you do you'll also want to change the relevant .md file under the
   # content folder so the copy corresponds with the header.
   home = "Home"
-  faq = "Datenschutz"
-  effectiveAltruism = "Effektiver Altruismus"
-  aboutEA = "EA Berlin Lokalgruppe"
-  readingMaterial = "Lesematerial"
-  keyTerms = "weiterführende Texte"
-  organizations = "Organisationen"
+  privacy = "Privacy"
+  effectiveAltruism = "Effective Altruism"
+  aboutEA = "EA Berlin Local Group"
   contact= "Kontakt"
 
   [Languages.en.pages]
@@ -72,9 +70,9 @@ DefaultContentLanguage = "de"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Kontaktiere uns"
-  firstButtonLink = "https://www.ea-berlin.org/contact"
-  secondButtonText = "Newsletter Anmeldung"
+  firstButtonText = "Contact Us"
+  firstButtonLink = "/en/contact"
+  secondButtonText = "Newsletter Signup"
   secondButtonLink = "https://ea-berlin.us14.list-manage.com/subscribe?u=233b1ac60e81d252e4a837c97&id=fba1750add"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
@@ -111,12 +109,9 @@ DefaultContentLanguage = "de"
   # but if you do you'll also want to change the relevant .md file under the
   # content folder so the copy corresponds with the header.
   home = "Startseite"
-  faq = "Datenschutz"
+  privacy = "Datenschutz"
   effectiveAltruism = "Effektiver Altruismus"
   aboutEA = "EA Berlin Lokalgruppe"
-  readingMaterial = "Lesematerial"
-  keyTerms = "weiterführende Texte"
-  organizations = "Organisationen"
   contact= "Kontakt"
 
   [Languages.de.pages]
@@ -146,7 +141,7 @@ DefaultContentLanguage = "de"
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
   firstButtonText = "Kontaktiere uns"
-  firstButtonLink = "https://www.ea-berlin.org/contact"
+  firstButtonLink = "/de/contact"
   secondButtonText = "Newsletter Anmeldung"
   secondButtonLink = "https://ea-berlin.us14.list-manage.com/subscribe?u=233b1ac60e81d252e4a837c97&id=fba1750add"
   # Remove the # before the text to add the optional Meetup button
