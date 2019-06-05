@@ -1,6 +1,6 @@
 # baseURL = "https://www.ea-berlin.org/"
-baseURL = "https://ea-berlin.github.io/lean-site-template/"
-# baseURL = "http://localhost:8082/"
+# baseURL = "https://ea-berlin.github.io/lean-site-template/"
+baseURL = "http://localhost:8082/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
@@ -51,12 +51,13 @@ DefaultContentLanguage = "en"
 
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
-  topBannerText = "Wer sind wir?"
-  leadText = "Wir sind eine Gruppe von Menschen, die dir bei folgender Frage helfen wollen: Wie kannst du Gutes besser tun?"
-  firstSectionHeader = "Gutes Besser Tun"
+  topBannerText = "Impact in numbers: x mio. $ donated / pledged, x lives saved, research (3 new institutes? FHI, GPI, CSER)"
+  introductoryVideo = "https://www.youtube.com/embed/WyprXhvGVYk"
+  leadText = "Join Us"
+  firstSectionHeader = "Take Action"
   secondSectionHeader = "Gemeinsam Bewirken"
   thirdSectionHeader = "Den Besten Weg Finden"
-  bottomBannerText = "Ein stolzes Mitglied der weltweiten Effektiven Altruismus Bewegung"
+  bottomBannerText = "A proud member of the world wide Effective Altruism movement."
 
   [Languages.en.contactform]
   leadText = "Hinweis zum Kontaktformular: Wir benötigen deinen Namen und Email-Adresse, um dir antworten zu können. Je genauer du deine Nachricht verfasst, desto besser können wir uns ein Bild von dir machen. Deine Daten werden nur zur Beantwortung deiner Anfrage verwendet. Weitere Informationen zum Datenschutz und Widerrufshinweise findest du unter „Datenschutz“"
@@ -99,7 +100,7 @@ DefaultContentLanguage = "en"
 
   ## -- EA GROUP INFO -- ##
   [Languages.de.groupinfo]
-  legalOrgName = "Effektiver Altruismus Berlin, Angaben gemäß § 5 TMG: Dezhi Rong, Torstraße 221, 10115 Berlin; email: vorstand*at*ea-berlin.org"
+  legalOrgName = "Effektiver Altruismus Berlin; email: vorstand*at*ea-berlin.org"
   orgLocations = "Berlin"
   contactEmail = "info@ea-berlin.org"
 
