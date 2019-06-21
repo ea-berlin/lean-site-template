@@ -1,5 +1,5 @@
-# baseURL = "https://www.ea-berlin.org/"
-baseURL = "https://ea-berlin.github.io/lean-site-template/"
+baseURL = "https://ea-berlin.org/"
+# baseURL = "https://ea-berlin.github.io/lean-site-template/"
 # baseURL = "http://localhost:8082/"
 theme = "local-ea-template"
 
