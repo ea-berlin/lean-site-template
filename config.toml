@@ -1,4 +1,6 @@
-baseURL = "https://www.ea-berlin.org/"
+baseURL = "https://ea-berlin.org/"
+# baseURL = "https://ea-berlin.github.io/lean-site-template/"
+# baseURL = "http://localhost:8082/"
 theme = "local-ea-template"
 
 # If you are using multiple languages and want a different default,
@@ -13,6 +15,8 @@ DefaultContentLanguage = "en"
   [params]
 
   [Languages]
+  #####
+  # EN
   [Languages.en]
   title = "EA Berlin"
   weight = 1
@@ -20,8 +24,8 @@ DefaultContentLanguage = "en"
 
   [Languages.en.general]
   ## -- GENERAL SITE PARAMETERS -- ##
-  fullTitle = "Effektiver Altruismus Berlin"
-  strapline = "Gutes Besser Tun"
+  fullTitle = "Effective Altruism Berlin"
+  strapline = "Doing Good Better"
 
   ## -- EA GROUP INFO -- ##
   [Languages.en.groupinfo]
@@ -34,13 +38,10 @@ DefaultContentLanguage = "en"
   # You probably don't need/want to change these,
   # but if you do you'll also want to change the relevant .md file under the
   # content folder so the copy corresponds with the header.
-  home = "Startseite"
-  faq = "Datenschutz"
-  effectiveAltruism = "Effektiver Altruismus"
-  aboutEA = "EA Berlin Lokalgruppe"
-  readingMaterial = "Lesematerial"
-  keyTerms = "weiterführende Texte"
-  organizations = "Organisationen"
+  home = "Home"
+  privacy = "Privacy"
+  effectiveAltruism = "Effective Altruism"
+  aboutEA = "EA Berlin Local Group"
   contact= "Kontakt"
 
   [Languages.en.pages]
@@ -50,12 +51,13 @@ DefaultContentLanguage = "en"
 
   [Languages.en.homepage]
    ## -- HOMEPAGE -- ##
-  topBannerText = "Wer sind wir?"
-  leadText = "Wir sind eine Gruppe von Menschen, die dir bei folgender Frage helfen wollen: Wie kannst du Gutes besser tun?"
-  firstSectionHeader = "Gutes Besser Tun"
+  topBannerText = "Impact in numbers: x mio. $ donated / pledged, x lives saved, research (3 new institutes? FHI, GPI, CSER)"
+  introductoryVideo = "https://www.youtube.com/embed/WyprXhvGVYk"
+  leadText = "Join Us"
+  firstSectionHeader = "Take Action"
   secondSectionHeader = "Gemeinsam Bewirken"
   thirdSectionHeader = "Den Besten Weg Finden"
-  bottomBannerText = "Ein stolzes Mitglied der weltweiten Effektiven Altruismus Bewegung"
+  bottomBannerText = "A proud member of the world wide Effective Altruism movement."
 
   [Languages.en.contactform]
   leadText = "Hinweis zum Kontaktformular: Wir benötigen deinen Namen und Email-Adresse, um dir antworten zu können. Je genauer du deine Nachricht verfasst, desto besser können wir uns ein Bild von dir machen. Deine Daten werden nur zur Beantwortung deiner Anfrage verwendet. Weitere Informationen zum Datenschutz und Widerrufshinweise findest du unter „Datenschutz“"
@@ -69,9 +71,9 @@ DefaultContentLanguage = "en"
   # These are the buttons right under the header that appears on the main page.
   # You can use them to link to a mailing list or Facebook page.
   # Make sure the links start with http:// or https://
-  firstButtonText = "Kontaktiere uns"
-  firstButtonLink = "https://www.ea-berlin.org/contact"
-  secondButtonText = "Newsletter Anmeldung"
+  firstButtonText = "Contact Us"
+  firstButtonLink = "/en/contact"
+  secondButtonText = "Newsletter Signup"
   secondButtonLink = "https://ea-berlin.us14.list-manage.com/subscribe?u=233b1ac60e81d252e4a837c97&id=fba1750add"
   # Remove the # before the text to add the optional Meetup button
   # meetupButtonText = "Find us on Meetup"
@@ -82,4 +84,74 @@ DefaultContentLanguage = "en"
   # to remove the link from the site
   facebookUrl = "https://www.facebook.com/groups/eaberlin1/"
   # twitterUrl = ""
-# meetupUrl = ""
+  # meetupUrl = ""
+
+  #####
+  # DE
+  [Languages.de]
+  title = "EA Berlin"
+  weight = 1
+  languageCode = "de"
+
+  [Languages.de.general]
+  ## -- GENERAL SITE PARAMETERS -- ##
+  fullTitle = "Effektiver Altruismus Berlin"
+  strapline = "Gutes Besser Tun"
+
+  ## -- EA GROUP INFO -- ##
+  [Languages.de.groupinfo]
+  legalOrgName = "Effektiver Altruismus Berlin; email: vorstand*at*ea-berlin.org"
+  orgLocations = "Berlin"
+  contactEmail = "info@ea-berlin.org"
+
+  [Languages.de.navbar]
+  ## -- NAVIGATION BAR HEADERS -- ##
+  # You probably don't need/want to change these,
+  # but if you do you'll also want to change the relevant .md file under the
+  # content folder so the copy corresponds with the header.
+  home = "Startseite"
+  privacy = "Datenschutz"
+  effectiveAltruism = "Effektiver Altruismus"
+  aboutEA = "EA Berlin Lokalgruppe"
+  contact= "Kontakt"
+
+  [Languages.de.pages]
+  ## -- Page Headers -- ##
+  contactPageHeader = "Kontaktiere uns"
+  aboutEAPageHeader = ""
+
+  [Languages.de.homepage]
+   ## -- HOMEPAGE -- ##
+  topBannerText = "Wer sind wir?"
+  leadText = "Wir sind eine Gruppe von Menschen, die dir bei folgender Frage helfen wollen: Wie kannst du Gutes besser tun?"
+  firstSectionHeader = "Gutes Besser Tun"
+  secondSectionHeader = "Gemeinsam Bewirken"
+  thirdSectionHeader = "Den Besten Weg Finden"
+  bottomBannerText = "Ein stolzes Mitglied der weltweiten Effektiven Altruismus Bewegung"
+
+  [Languages.de.contactform]
+  leadText = "Hinweis zum Kontaktformular: Wir benötigen deinen Namen und Email-Adresse, um dir antworten zu können. Je genauer du deine Nachricht verfasst, desto besser können wir uns ein Bild von dir machen. Deine Daten werden nur zur Beantwortung deiner Anfrage verwendet. Weitere Informationen zum Datenschutz und Widerrufshinweise findest du unter „Datenschutz“"
+  senderName = "dein Name (notwendig)"
+  senderEmail = "deine Email (notwendig)"
+  emailSubject = "Betreff"
+  emailMessage = "deine Nachricht"
+  send = "absenden"
+
+  [Languages.de.jumbotron]
+  # These are the buttons right under the header that appears on the main page.
+  # You can use them to link to a mailing list or Facebook page.
+  # Make sure the links start with http:// or https://
+  firstButtonText = "Kontaktiere uns"
+  firstButtonLink = "/de/contact"
+  secondButtonText = "Newsletter Anmeldung"
+  secondButtonLink = "https://ea-berlin.us14.list-manage.com/subscribe?u=233b1ac60e81d252e4a837c97&id=fba1750add"
+  # Remove the # before the text to add the optional Meetup button
+  # meetupButtonText = "Find us on Meetup"
+
+  [Languages.de.urls]
+  ## -- EA GROUP FB/TWITTER/MEETUP URLS -- ##
+  # If your group does not have URLs for these, just add # before the line
+  # to remove the link from the site
+  facebookUrl = "https://www.facebook.com/groups/eaberlin1/"
+  # twitterUrl = ""
+  # meetupUrl = ""

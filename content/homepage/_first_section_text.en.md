@@ -1,0 +1,2 @@
+## What is Effective Altruism?
+Effective Altruism (EA) is a philosophy and social movement that uses evidence and reasoning to determine the most effective ways to help others. It's a diverse community of researchers, entrepreneurs and philanthropists spread around the globe, working together on various causes such as AI safety, factory farming and global health to reduce suffering and improve lives effectively.
